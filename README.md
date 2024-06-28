@@ -32,8 +32,17 @@ SHOW DATABASES
 ```
 CREATE DATABASE name_db;
 ```
-- Use database ```
-  USE name_db
+- Use database
   ```
-- Remove database ```DROP DATABASE name_db```
-- Show all databse ```SHOW DATABASES```
+  USE name_db;
+  ```
+- Remove database
+  ```
+  DROP DATABASE name_db;
+  ```
+- Show all databse
+- ```
+  SHOW DATABASES;
+- ```
+
+  test readme
